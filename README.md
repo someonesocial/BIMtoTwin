@@ -1,4 +1,8 @@
 # BIMtoTwin
+ ![Screenshot 2024-10-07 093448](https://github.com/user-attachments/assets/54a42fe1-200d-469b-aea0-e225157392cb)
+ 
+ ![Screenshot 2024-10-07 093840](https://github.com/user-attachments/assets/a867c6b4-da45-451a-ba8d-9155776c5e1a)
+
 Öffnen und verwenden in Unreal Engine
 
 Auf GitHub:
@@ -7,7 +11,8 @@ Auf GitHub:
 3. Zuletzt getestet mit Unreal Engine 5.3 
 4. Nachdem starten der Engine Pfad auswählen indem sich der gedownloadete Ordner befindet.
 
-In Unreal Engine:  
+In Unreal Engine:
+
 1. Unter "Edit" -> "Plugin", sollen die Plugins "Datasmith CAD Importer" und "Datasmith Content" installiert werden. Diese werden für das Projekt benötigt
 2. Nach dem schließen des Pluginshops, soll bei "Content Drower" die Datei "importIFCFile" angeklickt werden. Es öffnet sich ein neues Fenster
 3. In diesem Fenster kann man beim Register "Input" über den Button "Import" die jeweilige IFC-Datei auswählen, damit diese importiert wird.
