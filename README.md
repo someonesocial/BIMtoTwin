@@ -1,6 +1,8 @@
 # BIMtoTwin
  ![Screenshot 2024-10-07 093448](https://github.com/user-attachments/assets/54a42fe1-200d-469b-aea0-e225157392cb)
  
+ ![Screenshot 2024-10-07 093840](https://github.com/user-attachments/assets/51e0e1f1-6c03-418f-b378-7217b7a92ecf)
+
  ![Screenshot 2024-10-07 093840](https://github.com/user-attachments/assets/a867c6b4-da45-451a-ba8d-9155776c5e1a)
 
 Öffnen und verwenden in Unreal Engine
